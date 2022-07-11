@@ -23,6 +23,8 @@
   📫 How to reach me: <a href="mailto: 20pt37@psgtech.ac.in">20pt37@psgtech.ac.in</a>
 </p>
 
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 <hr>
 
 <h2 align="center"> Statistics </h2>
