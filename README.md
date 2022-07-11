@@ -20,8 +20,10 @@
   <br>
   🎓 I graduated from Yuvabharathi Public School, Coimbatore
   <br>
-  📫 How to reach me: <a href="mailto: 20pt37@psgtech.ac.in">20pt37@psgtech.ac.in</a>\
-  <br>
+  📫 How to reach me: <a href="mailto: 20pt37@psgtech.ac.in">20pt37@psgtech.ac.in</a>
+</p>
+
+<p align="center">
   <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="320" />
 </p>
 
