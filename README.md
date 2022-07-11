@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="320" />
+  <img align="center" alt="GIF" src="images/code.gif" width="480" height="320" />
 </p>
 
 <hr>
